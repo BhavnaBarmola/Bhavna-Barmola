@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather;
+  color: #40514E;
+}
+
+h1 {font-family: dancing Script;
+  margin:50px auto 0 auto;
+  font-size: 5.625rem;
+  color:#711A75;
+}
+h2{font-family: 'yanone kaffeesatz';
+color: #711A75;
+font-weight: normal;
+padding-bottom:10px; }
+h3{font-family: 'yanone Kaffeesatz';
+color:#711A75;
+font-size: 2.5rem;
+padding-bottom:10px;
+font-weight: normal;}
+a{color: #EAF6F6;
+font-family: 'yanone kaffeesatz' 'sans-serif';
+margin:10px 20px;
+text-decoration: none;}
+a:hover{color:#40514E;}
+.btn{
+  background: #d805eb;
+  background-image: -webkit-linear-gradient(top, #d805eb, #7f2bb8);
+  background-image: -moz-linear-gradient(top, #d805eb, #7f2bb8);
+  background-image: -ms-linear-gradient(top, #d805eb, #7f2bb8);
+  background-image: -o-linear-gradient(top, #d805eb, #7f2bb8);
+  background-image: linear-gradient(to bottom, #d805eb, #7f2bb8);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Merriweather';
+
+  color: #ffffff;
+font-size: 20px;
+padding: 10px 20px 10px 20px;
+border: solid #f4e9f5 2px;
+text-decoration: none;
+}
+
+.btn:hover {
+background: #9f3cfc;
+background-image: -webkit-linear-gradient(top, #9f3cfc, #aa34d9);
+background-image: -moz-linear-gradient(top, #9f3cfc, #aa34d9);
+background-image: -ms-linear-gradient(top, #9f3cfc, #aa34d9);
+background-image: -o-linear-gradient(top, #9f3cfc, #aa34d9);
+background-image: linear-gradient(to bottom, #9f3cfc, #aa34d9);
+text-decoration: none;
+}
+.dollyy{color:#EAF6F6;
+font-size: 0.75rem;
+padding:20px 0px;}
+
+.top-container {
+  background-color: #D18CE0;
+  position:relative;
+  padding-top: 100px;
+}
+.dolly{border-radius: 50%}
+p{line-height: 2;}
+
+.UX{text-decoration: underline;}
+.bottom-cloud {position: absolute;
+  left:250px;
+  bottom:300px;
+}
+hr{border:dotted;color: #D18CE0;
+border-bottom: none;
+width:4%;
+margin:100px,auto;}
+.contact-message{width:40%;
+margin:40px auto 60px;}
+
+
+.bio{width:30%;
+margin:auto;}
+.top-cloud {position: absolute;
+right:300px;
+top:40px;}
+.middle-container{margin: 100px 0;}
+.bottom-container{background-color:#7A0BC0;
+padding: 50px 0 20px;}
